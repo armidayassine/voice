@@ -1,5 +1,7 @@
 streamlit
-SpeechRecognition
+sounddevice
+scipy
+speechrecognition
 deep-translator
 gTTS
-pyaudio
+
