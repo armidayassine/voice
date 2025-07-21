@@ -1,4 +1,4 @@
-speech_recognition
+
 streamlit
 SpeechRecognition
 deep-translator
